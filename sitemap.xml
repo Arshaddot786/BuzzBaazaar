@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.buzzbaazaar.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/services.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/campaigns.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/fleet.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/how-it-works.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/influencers.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/guerrilla-marketing.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/brand-ambassadors.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/case-studies.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/cities.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.buzzbaazaar.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://www.buzzbaazaar.com/</loc><lastmod>2026-11-25</lastmod><priority>1.0</priority></url>
+<url><loc>https://www.buzzbaazaar.com/contact/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.buzzbaazaar.com/how-we-work/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.buzzbaazaar.com/packages/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.buzzbaazaar.com/pakistan/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.buzzbaazaar.com/privacy/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/brand-ambassadors/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/creator-campaigns/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/dedicated-pod/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/field-activations/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/pakistan-market-entry/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/proximity-marketing/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/research-insights/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/rooftop-car-fleet/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/social-experiments/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/surveys-awareness/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/talent/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/solutions/viral-content-engine/</loc><lastmod>2026-11-25</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.buzzbaazaar.com/terms/</loc><lastmod>2026-11-25</lastmod><priority>0.8</priority></url>
 </urlset>
